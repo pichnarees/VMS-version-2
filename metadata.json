@@ -1,0 +1,6 @@
+{
+  "name": "PEA Wireframe",
+  "description": "ระบบจัดหารถยนต์ทดแทน (PEA Wireframe) - ติดตามสถานะแผนและคำขอจัดหารถยนต์ทดแทน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
